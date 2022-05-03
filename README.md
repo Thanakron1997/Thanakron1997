@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Thanakron1997
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, react-nativew, html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, react-native, html
+
 
 <!---
 Thanakron1997/Thanakron1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
