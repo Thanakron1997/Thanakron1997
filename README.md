@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanakron1997
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, react-native, html
+- 🌱 I’m currently learning Python, javaScript, html
 
 
 <!---
